@@ -1,3 +1,6 @@
+
+<video src='Arduino Example On X-Noabara R1.mp4' width=180> </video>
+
 # Aura
 "Aura" is A dynamic library for creating and controlling vibrant color effects on all platforms such as Arduino, microcontrollers, etc...
 
